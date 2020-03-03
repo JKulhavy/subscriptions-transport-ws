@@ -12,8 +12,8 @@
     "backo2": "^1.0.2",
     "eventemitter3": "^3.1.0",
     "iterall": "^1.2.1",
-    "symbol-observable": "^1.0.4",
-    "ws": "^5.2.0"
+    "nativescript-websockets": "^1.5.5",
+    "symbol-observable": "^1.0.4"
   },
   "scripts": {
     "clean": "rimraf browser dist coverage",
@@ -40,7 +40,6 @@
     "@types/mocha": "^5.2.5",
     "@types/node": "^8.0.8",
     "@types/sinon": "^5.0.1",
-    "@types/ws": "^5.1.2",
     "chai": "^4.0.2",
     "graphql": "^14.0.2",
     "graphql-subscriptions": "^1.0.0",
